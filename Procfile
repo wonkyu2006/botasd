@@ -1,1 +1,2 @@
-worker: python index.py
+node index.py
+pause
